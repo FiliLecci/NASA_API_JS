@@ -2,7 +2,7 @@ import fetch from "node-fetch";
 import fs from "fs";
 import https from "https";
 
-let key = "kXyDzzUrJ8QEkAxNSEhjnYgbmIrQnymB5Vn3HgDa";
+let key = "DEMO_KEY";
 let url = ["https://api.nasa.gov/planetary/apod?api_key=", key].join("");
 console.log(url);
 
