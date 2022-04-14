@@ -1,4 +1,7 @@
 # NASA_API_JS
+NOTA:
+L'immagine non viene aggiornata a mezzanotte ma bensì più tardi ad un'ora non fissa, è quindi probabile che il programma scarichi l'immagine del giorno precedente se eseguito in orari prossimi a mezzanotte.
+
 Un semplice programma javascript che interroga il server REST della NASA usando le Open API's da essa messe a disposizione e consultabili alla pagina
 https://api.nasa.gov/ , che scarica in una directory l'immagine astronomica del giorno. Viene in partiolare usata l'API nominata APOD (Astronomical Picture Of the Day).
 
