@@ -4,4 +4,4 @@ https://api.nasa.gov/ . Viene in partiolare usata l'API nominata APOD (Astronomi
 
 Per poter eseguire con successo le richieste il programma ha bisogno di una KEY che può essere generata in modo totalmente gratuito e veloce al sito sopra citato compilando i campi che vengono richiesti (nome, cognome, email).
 
-Una volta generata la propria KEY, sarà necessario copiarla ed andarla a sostituire a "DEMO_KEY".
+Una volta generata la propria KEY, sarà necessario copiarla ed andarla a sostituire a "DEMO_KEY" (index.mjs, riga 5).
