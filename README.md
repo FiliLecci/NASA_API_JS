@@ -13,7 +13,7 @@ Una volta generata la propria KEY, sarà necessario copiarla ed andarla a sostit
 
 1) creare un file nome.txt
 2) aprire il file e scrivere "node path/index.mjs" dove path è il percorso fino al vostro file index.mjs
-3) verificare che il file funzioni facendo doppio click e verificando che l'immagine venga scaricata correttamente nella directory indicata
-4) cambiare l'estensione da .txt a .bat (se non si visualizzano le estensioni dei file aprire "esplora risorse", in alto andare su "Visualizza" e infine selezionare tra i checkbox sulla destra la voce "Estensioni nomi file")
+3) cambiare l'estensione da .txt a .bat (se non si visualizzano le estensioni dei file aprire "esplora risorse", in alto andare su "Visualizza" e infine selezionare tra i checkbox sulla destra la voce "Estensioni nomi file")
+4) verificare che il file funzioni facendo doppio click e verificando che l'immagine venga scaricata correttamente nella directory indicata
 5) premere win+R per aprire Esegui e digitare "shell:startup"
 6) trascinare il file precedentemente creato nella cartella appena aperta
